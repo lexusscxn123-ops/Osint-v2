@@ -1,7 +1,7 @@
 OSİNT V2'NİN ÖZELLİKLERİ 
 LEXUS OSINT - ÖZELLİKLER
 
-#lexus
+# LEXUS OSINT V2
 1 IP Sorgulama Ülke, şehir, ilçe, koordinat, ISP, AS bilgisi 
 2 Email Sızıntı Email'in sızdırıldığı veritabanları (demo) Leak-Lookup
 3 Username OSINT 9+ sosyal medya platformunda hesap kontrolü HTTP Request
