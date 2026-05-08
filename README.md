@@ -23,11 +23,11 @@
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/lexus/lexus-osint.git
+git clone https://github.com/lexus/lexus-osint v2.git
 cd lexus-osint
 
 # Gereksinimleri kur
 pip install -r requirements.txt
 
 # Çalıştır
-python lexus-osint.py
+python lexus-osintv2.py
